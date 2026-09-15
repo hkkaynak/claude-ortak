@@ -1,0 +1,5 @@
+{
+  "name": "hakan-cekirdek",
+  "description": "Bulut oturumlarında (CLAUDE_CODE_REMOTE=true) Hakan'ın çalışma kurallarını bağlama ekler; yerelde sessizdir",
+  "author": { "name": "Hakan" }
+}

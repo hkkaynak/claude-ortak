@@ -1,0 +1,11 @@
+{
+  "name": "hakan-ortak",
+  "owner": { "name": "Hakan" },
+  "plugins": [
+    {
+      "name": "hakan-cekirdek",
+      "source": "./plugins/hakan-cekirdek",
+      "description": "Bulut oturumlarında Hakan'ın çalışma kurallarını bağlama ekler"
+    }
+  ]
+}
